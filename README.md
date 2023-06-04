@@ -20,7 +20,7 @@ The output of the developed model was submitted to Kaggle, a popular data scienc
 
 ## Repository Contents
 
-- `forest_cover_type_prediction.ipynb`: A Jupyter Notebook containing the Python code and step-by-step explanation for building the ML model.
+- `final_notebook.ipynb`: A Jupyter Notebook containing the Python code and step-by-step explanation for building the ML model.
 - `dataset.csv`: The can be downloade in the Kaggle competition.
 - `README.md`: This file, providing an overview of the project.
 
